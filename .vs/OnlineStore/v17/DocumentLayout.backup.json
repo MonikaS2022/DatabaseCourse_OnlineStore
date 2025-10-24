@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|c:\\monika\\monika_git_download_others\\onlinestore-main\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|solutionrelative:databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|c:\\monika\\monika_git_download_others\\onlinestore-main\\adminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|solutionrelative:adminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|c:\\monika\\monika_git_download_others\\onlinestore-main\\customerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|solutionrelative:customerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|c:\\monika\\monika_git_download_others\\onlinestore-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B195E34-7752-4AD1-8C48-69801051CF3A}|OnlineStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerHandler.cs",
+              "DocumentMoniker": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\CustomerHandler.cs",
+              "RelativeDocumentMoniker": "CustomerHandler.cs",
+              "ToolTip": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\CustomerHandler.cs",
+              "RelativeToolTip": "CustomerHandler.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAUwAYBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:33:36.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminHandler.cs",
+              "DocumentMoniker": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\AdminHandler.cs",
+              "RelativeDocumentMoniker": "AdminHandler.cs",
+              "ToolTip": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\AdminHandler.cs",
+              "RelativeToolTip": "AdminHandler.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAApwLYBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:33:36.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnect.cs",
+              "DocumentMoniker": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\DatabaseConnect.cs",
+              "RelativeDocumentMoniker": "DatabaseConnect.cs",
+              "ToolTip": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\DatabaseConnect.cs*",
+              "RelativeToolTip": "DatabaseConnect.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:33:36.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:33:36.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0y5mpXVW84=",
+  "success": true,
+  "projectFilePath": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\OnlineStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\monie\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Npgsql' 7.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "projectPath": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\OnlineStore.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Monika\\Monika_git_download_others\\OnlineStore-main\\OnlineStore.csproj",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3B195E34-7752-4AD1-8C48-69801051CF3A}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlineStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseConnect.cs">
+    <Files>
+      <File FileName="DatabaseConnect.cs" Line="459" Column="37" />
+      <File FileName="AdminHandler.cs" Line="344" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="CustomerHandler.cs" Line="177" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" expanded="True">
+            <Node name="OnlineStore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
